@@ -78,7 +78,7 @@ To get a local copy up and running follow these steps:
 
 ### Prerequsites 
 
-To run this project you need the following tools:
+To run this project you need the following tools..:
 
 - [VS Code]
 - [Git and GitHub]
